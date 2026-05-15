@@ -23,7 +23,7 @@ repository               : "physicsnerd/physicsnerd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/files/ayoung.jpg"
   name             : "Auden Young"
   pronouns         : # example: "she/her"  
   bio              : "R&D Engineer at UC Berkeley Physics Advanced Instructional Labs"
@@ -310,7 +310,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -319,7 +319,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 

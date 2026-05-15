@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Publications & Talks"
+permalink: /publications-talks/
 author_profile: true
 ---
 
@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+## Publications
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
@@ -31,6 +33,12 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
+## Talks
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
 
 
