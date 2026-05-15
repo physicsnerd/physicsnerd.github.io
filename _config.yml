@@ -23,7 +23,7 @@ repository               : "physicsnerd/physicsnerd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/ayoung.jpg"
+  avatar           : "profile.jpg"
   name             : "Auden Young"
   pronouns         : # example: "she/her"  
   bio              : "R&D Engineer at UC Berkeley Physics Advanced Instructional Labs"
