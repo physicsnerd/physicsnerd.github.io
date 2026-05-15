@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Auden Young"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "R&D Engineer at UC Berkeley Physics Advanced Instructional Labs"
   location         : "Bay Area, CA"
   employer         : "UC Berkeley"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : auden-young
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
