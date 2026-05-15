@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 Hi! I work as an R&D Engineer at UC Berkeley, maintaining the [Donald A. Glaser
 Advanced Instructional Labs](https://experimentationlab.berkeley.edu/) in the Physics Department. I graduated from Berkeley
 in August 2025 with a B.S. in Engineering Physics and a minor in Mathematics.
