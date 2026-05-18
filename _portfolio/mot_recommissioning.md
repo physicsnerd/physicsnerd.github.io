@@ -44,7 +44,3 @@ A magneto-optical trap (MOT) uses carefully tuned laser beams and a magnetic fie
 ## Why It Matters
 
 As of January 2025, the experiment is operational for the first time in 8 years, and is allowing students to work on a system central to AMO physics. (A student told me after doing the experiment this semester this confirmed they wanted to go into AMO physics!)
-
----
-
-*Related: [Quantum sensing with NV centers in diamond](/portfolio/nv-center-quantum-sensing) — my research work at Lawrence Berkeley National Laboratory on a different quantum sensing platform.*
