@@ -2,6 +2,8 @@
 title: "Recommissioning a Magneto-Optical Trap"
 excerpt: "Bringing a cold-atom experiment back online after eight years of dormancy."
 collection: portfolio
+header:
+    teaser: images/mot_room.jpeg
 ---
 
 *Physics Advanced Instructional Lab, UC Berkeley — 2025*
