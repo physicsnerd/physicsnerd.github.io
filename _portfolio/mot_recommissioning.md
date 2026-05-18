@@ -29,7 +29,7 @@ A magneto-optical trap (MOT) uses carefully tuned laser beams and a magnetic fie
 <!-- ![Trapped atom cloud fluorescence](/images/mot_cloud.jpg) -->
 <!-- *Caption: Fluorescence image of trapped rubidium atoms* -->
 
-![MOT room](/images/mot_room.jpg)
+![MOT room](/images/mot_room.jpeg)
 
 *The MOT room is probably the most dramatic/cool looking room in the lab.*
 
