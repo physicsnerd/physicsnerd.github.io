@@ -34,7 +34,7 @@ A magneto-optical trap (MOT) uses carefully tuned laser beams and a magnetic fie
 *The MOT room is probably the most dramatic/cool looking room in the lab.*
 
 <video width="100%" controls>
-   <source src="/files/mot_demo.MOV" type="video/mov">
+   <source src="/files/mot_demo.MOV" type="video/mp4">
 </video>
 
 *Successful MOT dropping and being recaptured!*
