@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
@@ -34,7 +32,8 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-## Talks
+<br />
+<h2>Talks</h2><hr />
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
